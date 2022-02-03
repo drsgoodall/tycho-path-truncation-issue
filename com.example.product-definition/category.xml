@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="com.example.feature" version="0.0.0">
+      <category name="all"/>
+   </feature>
+   <category-def name="all" label="All"/>
+</site>
